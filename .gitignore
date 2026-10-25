@@ -1,0 +1,7 @@
+# 自检截图产物，不入库
+_shots/
+# 临时报告
+report.json
+
+# 修订备份
+_backup/
